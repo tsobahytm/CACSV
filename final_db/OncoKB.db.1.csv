@@ -1,0 +1,251 @@
+gene	ENST+AF8-ID	alteration	protein+AF8-change	tumor+AF8-type	evidence+AF8-level	drugs
+ABL1	ENST00000318560	T315I	T315I	B+AC0-Lymphoblastic Leukemia/Lymphoma	R1	Bosutinib, Dasatinib, Imatinib, Nilotinib
+ABL1	ENST00000318560	T315I	T315I	Chronic Myelogenous Leukemia	R1	Bosutinib, Dasatinib, Imatinib, Nilotinib
+ABL1	ENST00000318560	BCR+AC0-ABL1 Fusion	BCR+AC0-ABL1 Fusion	B+AC0-Lymphoblastic Leukemia/Lymphoma	1	Dasatinib, Imatinib, Ponatinib
+ABL1	ENST00000318560	T315I	T315I	B+AC0-Lymphoblastic Leukemia/Lymphoma	1	Ponatinib
+ABL1	ENST00000318560	BCR+AC0-ABL1 Fusion	BCR+AC0-ABL1 Fusion	Chronic Myelogenous Leukemia	1	Bosutinib, Dasatinib, Imatinib, Nilotinib
+ABL1	ENST00000318560	T315I	T315I	Chronic Myelogenous Leukemia	1	Ponatinib
+ABL1	ENST00000318560	BCR+AC0-ABL1 Fusion	BCR+AC0-ABL1 Fusion	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	E255K	E255K	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	E255V	E255V	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F317C	F317C	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317I	F317I	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317L	F317L	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317V	F317V	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F359C	F359C	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F359I	F359I	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F359V	F359V	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	T315A	T315A	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	V299L	V299L	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Nilotinib
+ABL1	ENST00000318560	Y253H	Y253H	B+AC0-Lymphoblastic Leukemia/Lymphoma	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	E255K	E255K	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	E255V	E255V	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F317C	F317C	Chronic Myelogenous Leukemia	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317I	F317I	Chronic Myelogenous Leukemia	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317L	F317L	Chronic Myelogenous Leukemia	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F317V	F317V	Chronic Myelogenous Leukemia	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	F359C	F359C	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F359I	F359I	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	F359V	F359V	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	T315A	T315A	Chronic Myelogenous Leukemia	2A	Bosutinib, Nilotinib
+ABL1	ENST00000318560	V299L	V299L	Chronic Myelogenous Leukemia	2A	Nilotinib
+ABL1	ENST00000318560	Y253H	Y253H	Chronic Myelogenous Leukemia	2A	Bosutinib, Dasatinib
+ABL1	ENST00000318560	BCR+AC0-ABL1 Fusion	BCR+AC0-ABL1 Fusion	Chronic Myelogenous Leukemia	3A	Asciminib
+EGFR	ENST00000275493	Exon 20 insertion	762+AF8-823ins	Non+AC0-Small Cell Lung Cancer	R1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	T790M	T790M	Non+AC0-Small Cell Lung Cancer	R1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	A750P	A750P	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	A763+AF8-Y764insFQEA	A763+AF8-Y764insFQEA	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	E709K	E709K	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	E709+AF8-T710delinsD	E709+AF8-T710delinsD	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	Exon 19 deletion	729+AF8-761del	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Dacomitinib, Erlotinib, Gefitinib, Osimertinib
+EGFR	ENST00000275493	Exon 19 insertion	729+AF8-761ins	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	G719	G719	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	Kinase Domain Duplication	Kinase Domain Duplication	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	L747P	L747P	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	L833V	L833V	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	L858R	L858R	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Dacomitinib, Erlotinib, Gefitinib, Osimertinib
+EGFR	ENST00000275493	L861	L861	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	M277E	M277E	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	S768I	S768I	Non+AC0-Small Cell Lung Cancer	1	Afatinib, Erlotinib, Gefitinib
+EGFR	ENST00000275493	T790M	T790M	Non+AC0-Small Cell Lung Cancer	1	Osimertinib
+EGFR	ENST00000275493	Exon 20 insertion	762+AF8-823ins	Non+AC0-Small Cell Lung Cancer	3A	Poziotinib
+EGFR	ENST00000275493	A289V	A289V	Glioma	4	Lapatinib
+EGFR	ENST00000275493	Amplification	Amplification	Glioma	4	Lapatinib
+EGFR	ENST00000275493	R108K	R108K	Glioma	4	Lapatinib
+EGFR	ENST00000275493	T263P	T263P	Glioma	4	Lapatinib
+EGFR	ENST00000275493	D761Y	D761Y	Non+AC0-Small Cell Lung Cancer	4	Osimertinib
+EGFR	ENST00000275493	C797G	C797G	Non+AC0-Small Cell Lung Cancer	R2	Osimertinib
+EGFR	ENST00000275493	C797S	C797S	Non+AC0-Small Cell Lung Cancer	R2	Osimertinib
+EGFR	ENST00000275493	D761Y	D761Y	Non+AC0-Small Cell Lung Cancer	R2	Gefitinib
+KRAS	ENST00000256078	Oncogenic Mutations	Oncogenic Mutations	Colorectal Cancer	R1	Cetuximab, Panitumumab
+KRAS	ENST00000256078	Wildtype	Wildtype	Colorectal Cancer	1	Cetuximab, Panitumumab, Regorafenib
+KRAS	ENST00000256078	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib
+KRAS	ENST00000256078	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	Binimetinib, Cobimetinib, Trametinib
+NRAS	ENST00000369535	Oncogenic Mutations	Oncogenic Mutations	Colorectal Cancer	R1	Cetuximab, Panitumumab
+NRAS	ENST00000369535	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib
+NRAS	ENST00000369535	Oncogenic Mutations	Oncogenic Mutations	Melanoma	3A	Binimetinib, Binimetinib  Ribociclib
+NRAS	ENST00000369535	Oncogenic Mutations	Oncogenic Mutations	Thyroid Cancer	3A	Iodine I 131+AC0-6+AC0-Beta+AC0-Iodomethyl+AC0-19+AC0-Norcholesterol  Selumetinib
+PDGFRA	ENST00000257290	D842V	D842V	Gastrointestinal Stromal Tumor	R1	Imatinib
+PDGFRA	ENST00000257290	FIP1L1+AC0-PDGFRA Fusion	FIP1L1+AC0-PDGFRA Fusion	Chronic Eosinophilic Leukemia, NOS	1	Imatinib
+PDGFRA	ENST00000257290	Fusions	Fusions	Myelodysplastic/Myeloproliferative Neoplasms	1	Imatinib
+PDGFRA	ENST00000257290	D842V	D842V	Gastrointestinal Stromal Tumor	2A	Dasatinib
+PDGFRA	ENST00000257290	Oncogenic Mutations	Oncogenic Mutations	Gastrointestinal Stromal Tumor	2A	Imatinib
+ALK	ENST00000389048	Fusions	Fusions	Non+AC0-Small Cell Lung Cancer	1	Alectinib, Ceritinib, Crizotinib
+ALK	ENST00000389048	Oncogenic Mutations	Oncogenic Mutations	Non+AC0-Small Cell Lung Cancer	1	Brigatinib, Lorlatinib
+ALK	ENST00000389048	Fusions	Fusions	Inflammatory Myofibroblastic Tumor	2A	Ceritinib, Crizotinib
+ALK	ENST00000389048	C1156Y	C1156Y	Non+AC0-Small Cell Lung Cancer	R2	Crizotinib
+ALK	ENST00000389048	G1202R	G1202R	Non+AC0-Small Cell Lung Cancer	R2	Alectinib
+ALK	ENST00000389048	G1269A	G1269A	Non+AC0-Small Cell Lung Cancer	R2	Crizotinib
+ALK	ENST00000389048	I1171N	I1171N	Non+AC0-Small Cell Lung Cancer	R2	Alectinib
+ALK	ENST00000389048	L1196M	L1196M	Non+AC0-Small Cell Lung Cancer	R2	Crizotinib
+BRAF	ENST00000288602	V600E	V600E	Anaplastic Thyroid Cancer	1	Dabrafenib  Trametinib
+BRAF	ENST00000288602	V600	V600	Erdheim+AC0-Chester Disease	1	Vemurafenib
+BRAF	ENST00000288602	V600E	V600E	Melanoma	1	Dabrafenib, Dabrafenib  Trametinib, Encorafenib  Binimetinib, Trametinib, Vemurafenib, Vemurafenib  Cobimetinib
+BRAF	ENST00000288602	V600K	V600K	Melanoma	1	Dabrafenib  Trametinib, Encorafenib  Binimetinib, Trametinib, Vemurafenib  Cobimetinib
+BRAF	ENST00000288602	V600E	V600E	Non+AC0-Small Cell Lung Cancer	1	Dabrafenib  Trametinib
+BRAF	ENST00000288602	V600E	V600E	Colorectal Cancer	2A	Encorafenib  Binimetinib  Cetuximab, Panitumumab  Dabrafenib  Trametinib
+BRAF	ENST00000288602	V600E	V600E	Hairy Cell Leukemia	2A	Vemurafenib
+BRAF	ENST00000288602	V600	V600	Colorectal Cancer	3A	Panitumumab  Dabrafenib  Trametinib, Vemurafenib  Panitumumab
+BRAF	ENST00000288602	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib
+BRAF	ENST00000288602	Fusions	Fusions	Melanoma	3A	Cobimetinib, Trametinib
+BRAF	ENST00000288602	K601	K601	Melanoma	3A	Trametinib
+BRAF	ENST00000288602	L597	L597	Melanoma	3A	Trametinib
+BRAF	ENST00000288602	Fusions	Fusions	Ovarian Cancer	3A	Cobimetinib, Trametinib
+BRAF	ENST00000288602	G464	G464	All Solid Tumors	4	PLX8394
+BRAF	ENST00000288602	G469A	G469A	All Solid Tumors	4	PLX8394
+BRAF	ENST00000288602	G469R	G469R	All Solid Tumors	4	PLX8394
+BRAF	ENST00000288602	G469V	G469V	All Solid Tumors	4	PLX8394
+BRAF	ENST00000288602	K601	K601	All Solid Tumors	4	PLX8394
+BRAF	ENST00000288602	L597	L597	All Solid Tumors	4	PLX8394
+BRCA1	ENST00000357654	Oncogenic Mutations	Oncogenic Mutations	Ovarian Cancer	1	Niraparib, Rucaparib
+BRCA1	ENST00000357654	Oncogenic Mutations	Oncogenic Mutations	Peritoneal Serous Carcinoma	1	Niraparib, Rucaparib
+BRCA1	ENST00000357654	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	2A	Olaparib, Talazoparib
+BRCA1	ENST00000357654	Oncogenic Mutations	Oncogenic Mutations	Ovarian Cancer	2A	Olaparib
+BRCA1	ENST00000357654	Oncogenic Mutations	Oncogenic Mutations	Peritoneal Serous Carcinoma	2A	Olaparib
+BRCA2	ENST00000380152	Oncogenic Mutations	Oncogenic Mutations	Ovarian Cancer	1	Niraparib, Rucaparib
+BRCA2	ENST00000380152	Oncogenic Mutations	Oncogenic Mutations	Peritoneal Serous Carcinoma	1	Niraparib, Rucaparib
+BRCA2	ENST00000380152	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	2A	Olaparib, Talazoparib
+BRCA2	ENST00000380152	Oncogenic Mutations	Oncogenic Mutations	Ovarian Cancer	2A	Olaparib
+BRCA2	ENST00000380152	Oncogenic Mutations	Oncogenic Mutations	Peritoneal Serous Carcinoma	2A	Olaparib
+ERBB2	ENST00000269571	Amplification	Amplification	Breast Cancer	1	Ado+AC0-Trastuzumab Emtansine, Lapatinib, Lapatinib  Trastuzumab, Neratinib, Pertuzumab  Trastuzumab, Trastuzumab
+ERBB2	ENST00000269571	Amplification	Amplification	Esophagogastric Cancer	1	Trastuzumab
+ERBB2	ENST00000269571	Amplification	Amplification	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	2A	Carboplatin+AC0-Taxol Regimen  Trastuzumab
+ERBB2	ENST00000269571	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	3A	Neratinib
+ERBB2	ENST00000269571	Oncogenic Mutations	Oncogenic Mutations	Non+AC0-Small Cell Lung Cancer	3A	Ado+AC0-Trastuzumab Emtansine, Neratinib
+FGFR2	ENST00000358487	Fusions	Fusions	Bladder Cancer	1	Erdafitinib
+FGFR2	ENST00000358487	Fusions	Fusions	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR2	ENST00000358487	Fusions	Fusions	Cholangiocarcinoma	3A	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR2	ENST00000358487	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR3	ENST00000260795	Fusions	Fusions	Bladder Cancer	1	Erdafitinib
+FGFR3	ENST00000260795	G370C	G370C	Bladder Cancer	1	Erdafitinib
+FGFR3	ENST00000260795	R248C	R248C	Bladder Cancer	1	Erdafitinib
+FGFR3	ENST00000260795	S249C	S249C	Bladder Cancer	1	Erdafitinib
+FGFR3	ENST00000260795	Y373C	Y373C	Bladder Cancer	1	Erdafitinib
+FGFR3	ENST00000260795	Fusions	Fusions	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR3	ENST00000260795	G370C	G370C	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR3	ENST00000260795	G380R	G380R	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR3	ENST00000260795	K650	K650	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR3	ENST00000260795	R248C	R248C	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR3	ENST00000260795	S249C	S249C	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR3	ENST00000260795	S371C	S371C	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR3	ENST00000260795	Y373C	Y373C	Bladder Cancer	3A	AZD4547, BGJ398, Debio1347
+FGFR3	ENST00000260795	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	AZD4547, BGJ398, Debio1347, Erdafitinib
+FLT3	ENST00000241453	Internal tandem duplication	572+AF8-630ins	Acute Myeloid Leukemia	1	Gilteritinib
+FLT3	ENST00000241453	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	1	Midostaurin  High Dose Chemotherapy
+FLT3	ENST00000241453	Internal tandem duplication	572+AF8-630ins	Acute Myeloid Leukemia	3A	Crenolanib, Quizartinib, Sorafenib
+IDH1	ENST00000345146	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	1	Ivosidenib
+IDH2	ENST00000330062	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	1	Enasidenib
+KIT	ENST00000288135	Exon 17 mutations	C788+AF8-N828mut	Gastrointestinal Stromal Tumor	1	Regorafenib
+KIT	ENST00000288135	Oncogenic Mutations	Oncogenic Mutations	Gastrointestinal Stromal Tumor	1	Imatinib, Regorafenib, Sunitinib
+KIT	ENST00000288135	T670I	T670I	Gastrointestinal Stromal Tumor	1	Regorafenib, Sunitinib
+KIT	ENST00000288135	V654A	V654A	Gastrointestinal Stromal Tumor	1	Regorafenib, Sunitinib
+KIT	ENST00000288135	Exon 17 mutations	C788+AF8-N828mut	Gastrointestinal Stromal Tumor	2A	Sorafenib
+KIT	ENST00000288135	D816	D816	Melanoma	2A	Imatinib
+KIT	ENST00000288135	Exon 17 mutations	C788+AF8-N828mut	Melanoma	2A	Imatinib
+KIT	ENST00000288135	Oncogenic Mutations	Oncogenic Mutations	Melanoma	2A	Imatinib
+KIT	ENST00000288135	T670I	T670I	Melanoma	2A	Imatinib
+KIT	ENST00000288135	V654A	V654A	Melanoma	2A	Imatinib
+KIT	ENST00000288135	D816	D816	Thymic Tumor	2A	Sorafenib, Sunitinib
+KIT	ENST00000288135	Exon 17 mutations	C788+AF8-N828mut	Thymic Tumor	2A	Sorafenib, Sunitinib
+KIT	ENST00000288135	Oncogenic Mutations	Oncogenic Mutations	Thymic Tumor	2A	Sorafenib, Sunitinib
+KIT	ENST00000288135	T670I	T670I	Thymic Tumor	2A	Sorafenib, Sunitinib
+KIT	ENST00000288135	V654A	V654A	Thymic Tumor	2A	Sorafenib, Sunitinib
+KIT	ENST00000288135	D816	D816	Mastocytosis	3A	Avapritinib
+KIT	ENST00000288135	Exon 17 mutations	C788+AF8-N828mut	Gastrointestinal Stromal Tumor	R2	Imatinib, Sunitinib
+KIT	ENST00000288135	T670I	T670I	Gastrointestinal Stromal Tumor	R2	Imatinib
+KIT	ENST00000288135	V654A	V654A	Gastrointestinal Stromal Tumor	R2	Imatinib
+NTRK1	ENST00000524377	Fusions	Fusions	All Solid Tumors	1	Larotrectinib
+NTRK1	ENST00000524377	Fusions	Fusions	All Solid Tumors	3A	Entrectinib
+NTRK1	ENST00000524377	G595R	G595R	All Solid Tumors	R2	Larotrectinib
+NTRK2	ENST00000277120	Fusions	Fusions	All Solid Tumors	1	Larotrectinib
+NTRK2	ENST00000277120	Fusions	Fusions	All Solid Tumors	3A	Entrectinib
+NTRK3	ENST00000360948	Fusions	Fusions	All Solid Tumors	1	Larotrectinib
+NTRK3	ENST00000360948	Fusions	Fusions	All Solid Tumors	3A	Entrectinib
+NTRK3	ENST00000360948	G623R	G623R	All Solid Tumors	R2	Larotrectinib
+Other Biomarkers	null	Microsatellite Instability+AC0-High	MSI+AC0-H	All Solid Tumors	1	Pembrolizumab
+Other Biomarkers	null	Microsatellite Instability+AC0-High	MSI+AC0-H	Colorectal Cancer	1	Nivolumab
+PDGFB	ENST00000331163	COL1A1+AC0-PDGFB Fusion	COL1A1+AC0-PDGFB Fusion	Dermatofibrosarcoma Protuberans	1	Imatinib
+PDGFRB	ENST00000261799	Fusions	Fusions	Myelodysplastic/Myeloproliferative Neoplasms	1	Imatinib
+PIK3CA	ENST00000263967	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	1	Alpelisib  Fulvestrant
+PIK3CA	ENST00000263967	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	3A	Alpelisib, Buparlisib, Buparlisib  Fulvestrant, Copanlisib, GDC+AC0-0077, Serabelisib, Taselisib, Taselisib  Fulvestrant
+ROS1	ENST00000368508	Fusions	Fusions	Non+AC0-Small Cell Lung Cancer	1	Crizotinib
+TSC1	ENST00000298552	Oncogenic Mutations	Oncogenic Mutations	CNS Cancer	1	Everolimus
+TSC1	ENST00000298552	Oncogenic Mutations	Oncogenic Mutations	Renal Cell Carcinoma	2A	Everolimus
+TSC2	ENST00000219476	Oncogenic Mutations	Oncogenic Mutations	CNS Cancer	1	Everolimus
+TSC2	ENST00000219476	Oncogenic Mutations	Oncogenic Mutations	Renal Cell Carcinoma	2A	Everolimus
+CDK4	ENST00000257904	Amplification	Amplification	Dedifferentiated Liposarcoma	2A	Abemaciclib, Palbociclib
+CDK4	ENST00000257904	Amplification	Amplification	Well+AC0-Differentiated Liposarcoma	2A	Abemaciclib, Palbociclib
+MET	ENST00000397752	Amplification	Amplification	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	D1010H	D1010H	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	D1010N	D1010N	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	D1010Y	D1010Y	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Exon 14 Deletion	963+AF8-1010del	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Exon 14 splice mutation	963+AF8-1010splice	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Y1003C	Y1003C	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Y1003F	Y1003F	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Y1003N	Y1003N	Non+AC0-Small Cell Lung Cancer	2A	Crizotinib
+MET	ENST00000397752	Amplification	Amplification	Renal Cell Carcinoma	2A	Cabozantinib
+MET	ENST00000397752	D1010H	D1010H	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	D1010N	D1010N	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	D1010Y	D1010Y	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Exon 14 Deletion	963+AF8-1010del	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Exon 14 splice mutation	963+AF8-1010splice	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Y1003C	Y1003C	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Y1003F	Y1003F	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Y1003N	Y1003N	Non+AC0-Small Cell Lung Cancer	3A	Cabozantinib, Capmatinib
+MET	ENST00000397752	Fusions	Fusions	All Solid Tumors	4	Crizotinib
+MET	ENST00000397752	Amplification	Amplification	Non+AC0-Small Cell Lung Cancer	R2	Erlotinib, Gefitinib, Osimertinib
+MET	ENST00000397752	D1228N	D1228N	Non+AC0-Small Cell Lung Cancer	R2	Cabozantinib, Capmatinib, Crizotinib
+MET	ENST00000397752	Y1230H	Y1230H	Non+AC0-Small Cell Lung Cancer	R2	Capmatinib, Crizotinib
+RET	ENST00000355710	Fusions	Fusions	Non+AC0-Small Cell Lung Cancer	2A	Cabozantinib, Vandetanib
+RET	ENST00000355710	Oncogenic Mutations	Oncogenic Mutations	Medullary Thyroid Cancer	3A	BLU+AC0-667, LOXO+AC0-292
+RET	ENST00000355710	Fusions	Fusions	Non+AC0-Small Cell Lung Cancer	3A	BLU+AC0-667, LOXO+AC0-292
+AKT1	ENST00000349310	E17K	E17K	Breast Cancer	3A	AZD5363
+AKT1	ENST00000349310	E17K	E17K	Endometrial Cancer	3A	AZD5363
+AKT1	ENST00000349310	E17K	E17K	Ovarian Cancer	3A	AZD5363
+ARAF	ENST00000377045	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib, Sorafenib
+ARAF	ENST00000377045	Oncogenic Mutations	Oncogenic Mutations	Non+AC0-Small Cell Lung Cancer	3A	Sorafenib
+ERCC2	ENST00000391945	Oncogenic Mutations	Oncogenic Mutations	Bladder Cancer	3A	Cisplatin
+ESR1	ENST00000206249	Oncogenic Mutations	Oncogenic Mutations	Breast Cancer	3A	AZD9496, Fulvestrant
+EZH2	ENST00000320356	Oncogenic Mutations	Oncogenic Mutations	Follicular Lymphoma	3A	Tazemetostat
+FGFR1	ENST00000425967	Amplification	Amplification	Lung Squamous Cell Carcinoma	3A	AZD4547, BGJ398, Debio1347, Erdafitinib
+FGFR1	ENST00000425967	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	AZD4547, BGJ398, Debio1347, Erdafitinib
+HRAS	ENST00000311189	Oncogenic Mutations	Oncogenic Mutations	Head and Neck Squamous Cell Carcinoma	3A	Tipifarnib
+JAK2	ENST00000381652	PCM1+AC0-JAK2 Fusion	PCM1+AC0-JAK2 Fusion	Chronic Eosinophilic Leukemia, NOS	3A	Ruxolitinib
+MAP2K1	ENST00000307102	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib, Trametinib
+MAP2K1	ENST00000307102	Oncogenic Mutations	Oncogenic Mutations	Low+AC0-Grade Serous Ovarian Cancer	3A	Cobimetinib, Trametinib
+MAP2K1	ENST00000307102	Oncogenic Mutations	Oncogenic Mutations	Melanoma	3A	Cobimetinib, Trametinib
+MAP2K1	ENST00000307102	Oncogenic Mutations	Oncogenic Mutations	Non+AC0-Small Cell Lung Cancer	3A	Cobimetinib, Trametinib
+MAP2K2	ENST00000262948	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib
+MDM2	ENST00000462284	Amplification	Amplification	Liposarcoma	3A	Milademetan Tosylate, RO5045337
+MTOR	ENST00000361445	E2014K	E2014K	Bladder Cancer	3A	Everolimus
+MTOR	ENST00000361445	E2419K	E2419K	Bladder Cancer	3A	Everolimus
+MTOR	ENST00000361445	L1460P	L1460P	Renal Cell Carcinoma	3A	Temsirolimus
+MTOR	ENST00000361445	L2209V	L2209V	Renal Cell Carcinoma	3A	Temsirolimus
+MTOR	ENST00000361445	L2427Q	L2427Q	Renal Cell Carcinoma	3A	Temsirolimus
+MTOR	ENST00000361445	Q2223K	Q2223K	Renal Cell Carcinoma	3A	Everolimus
+MTOR	ENST00000361445	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	Everolimus, Temsirolimus
+PTCH1	ENST00000331920	Truncating Mutations	Truncating Mutations	Embryonal Tumor	3A	Sonidegib
+PTCH1	ENST00000331920	Truncating Mutations	Truncating Mutations	Skin Cancer, Non+AC0-Melanoma	3A	Sonidegib, Vismodegib
+RAF1	ENST00000251849	Oncogenic Mutations	Oncogenic Mutations	Histiocytosis	3A	Cobimetinib
+ATM	ENST00000278616	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	Olaparib
+CDK12	ENST00000447079	Truncating Mutations	Truncating Mutations	All Solid Tumors	4	Cemiplimab, Nivolumab, Pembrolizumab
+CDKN2A	ENST00000304494	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	Abemaciclib, Palbociclib, Ribociclib
+FLI1	ENST00000527786	EWSR1+AC0-FLI1 Fusion	EWSR1+AC0-FLI1 Fusion	Ewing Sarcoma	4	TK216
+FLI1	ENST00000527786	EWSR1+AC0-FLI1 Fusion	EWSR1+AC0-FLI1 Fusion	Ewing Sarcoma of Soft Tissue	4	TK216
+KDM6A	ENST00000377967	Oncogenic Mutations	Oncogenic Mutations	Bladder Cancer	4	Tazemetostat
+NF1	ENST00000358273	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	Cobimetinib, Trametinib
+PTEN	ENST00000371953	Oncogenic Mutations	Oncogenic Mutations	All Solid Tumors	4	AZD8186, GSK2636771
+SF3B1	ENST00000335508	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	4	H3B+AC0-8800
+SF3B1	ENST00000335508	Oncogenic Mutations	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	4	H3B+AC0-8800
+SF3B1	ENST00000335508	Oncogenic Mutations	Oncogenic Mutations	Myelodysplastic Syndromes	4	H3B+AC0-8800
+SMARCB1	ENST00000263121	Oncogenic Mutations	Oncogenic Mutations	All Tumors	4	Tazemetostat
+SRSF2	ENST00000359995	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	4	H3B+AC0-8800
+SRSF2	ENST00000359995	Oncogenic Mutations	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	4	H3B+AC0-8800
+SRSF2	ENST00000359995	Oncogenic Mutations	Oncogenic Mutations	Myelodysplastic Syndromes	4	H3B+AC0-8800
+U2AF1	ENST00000291552	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	4	H3B+AC0-8800
+U2AF1	ENST00000291552	Oncogenic Mutations	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	4	H3B+AC0-8800
+U2AF1	ENST00000291552	Oncogenic Mutations	Oncogenic Mutations	Myelodysplastic Syndromes	4	H3B+AC0-8800
+ZRSR2	ENST00000307771	Oncogenic Mutations	Oncogenic Mutations	Acute Myeloid Leukemia	4	H3B+AC0-8800
+ZRSR2	ENST00000307771	Oncogenic Mutations	Oncogenic Mutations	Chronic Myelomonocytic Leukemia	4	H3B+AC0-8800
+ZRSR2	ENST00000307771	Oncogenic Mutations	Oncogenic Mutations	Myelodysplastic Syndromes	4	H3B+AC0-8800
