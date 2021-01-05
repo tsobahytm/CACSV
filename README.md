@@ -3,13 +3,16 @@ Clinically Actionable Cancer Somatic Variants (CACSV) is genetics dataset that i
 ## Download (all files in finalDB)
 --cancer databases--
 (1) COSMIC
-CosmicMutantExportCensus from (https://cancer.sanger.ac.uk/cosmic/download )
+CosmicMutantExportCensus.tsv  (https://cancer.sanger.ac.uk/cosmic/download )
+cancer_gene_census.csv  (https://cancer.sanger.ac.uk/cosmic/download )
 (2) cBioPortal
-
+data_mutations_extended.txt files per study  (https://www.cbioportal.org/datasets)
 (3) intOgen
-
+mutation_analysis.csv files per site  (https://www.intogen.org/download )
 (4) OncoKB
-
+allActionableVariants.txt  (https://www.oncokb.org/apiAccess )
+(5) CCGD
+CCGD_export.csv (http://ccgd-starrlab.oit.umn.edu/search.html )
 --prepared files---
 
 --python scripts--
