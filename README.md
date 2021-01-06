@@ -30,19 +30,9 @@ python mAke.oncoKB_based_db.1.py allActionableVariants.txt
 ```
 --run the classifier--
 ```
-python Classifier.3.5.py input_text_file 
+python Classifier.3.5.py somatic_variants_text_file 
  
 ```
---convert to json--
-```
-python Classifier.3.5.py input_text_file 
- 
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## LICENSE
 [MIT](https://choosealicense.com/licenses/mit/)
