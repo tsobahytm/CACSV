@@ -1,0 +1,330 @@
+Census	Universal type		universal type	COSMIC
+CML	Not yet		all	haematopoietic+AF8-and+AF8-lymphoid+AF8-tissue+AD4-HS1+AD0-acute+AF8-lymphoblastic+AF8AKg-
+hepatoblastoma	Not yet		aml	haematopoietic+AF8-and+AF8-lymphoid+AF8-tissue+AD4-HS1+AD0-acute+AF8-myeloid+AF8AKg-
+'''bladder carcinoma'	bladder		anal	large+AF8-intestine+AD4-SS1+AD0-anus
+ABC+AC0-DLBCL	nhl	DLBCL	rectal	large+AF8-intestine+AD4-SS1+AD0-rectum
+aCML	Not yet		colon	large+AF8-intestine+AD4-SS1+AD0-colon
+acoustic neuroma	cns		bladder	urinary+AF8-tract+AD4-SS1+AD0-bladder
+acute megakaryocytic leukaemia	aml		uterine	cervix,endometrium
+adenoid cystic carcinoma	HNSCC		bone	bone
+adrenal adenoma	Not yet		breast	breast
+adrenal aldosterone producing adenoma	Not yet		cns	central+AF8-nervous+AF8-system
+adrenocortical	Not yet		esophageal	oesophagus
+adrenocortical carcinoma	Not yet		gastric	stomach
+adult T+AC0-cell leukaemia/lymphoma	all		kaposi	soft+AF8-tissue+AD4-PH+AD0-Kaposi+AF8-sarcoma
+adult T+AC0-cell lymphoma+AC0-leukaemia	all		melanoma	PH+AD0-malignant+AF8-melanoma
+AEL	Sub+AC0-type that not covered	AML	ovarian	ovary
+AL	???	too short name?	cervical	cervix
+ALCL	Sub+AC0-type that not covered	nhl	mds	
+ALL	all		nhl	
+alveolar rhabdomyosarcoma	Not yet		pancreas	
+alveolar soft part sarcoma	Not yet		nsclc	
+AML	aml		sclc	
+AML (CML blast transformation)	duplicated		hnscc	
+AML+ACo-	duplicated			
+amplified in other cancers	NA			
+anaplastic thyroid	Not yet			
+anaplastic thyroid cancer	Not yet			
+aneurysmal bone cyst	Sub+AC0-type that not covered	bone		
+angiocentric glioma	cns			
+angiomatoid fibrous histiocytoma	Not yet			
+angiosarcoma	Not yet			
+APL	aml			
+APL (translocation)	duplicated			
+B+AC0-ALL	all			
+B+AC0-CLL	nhl			
+B+AC0-NHL	nhl			
+base cell carcinoma	Not yet			
+biliary tract	Not yet			
+biliary tract carcinoma	Not yet			
+bladder	bladder			
+bladder cancer	bladder			
+bladder carcinoma	bladder			
+BNHL	nhl			
+borderline ovarian	ovarian			
+breast	breast			
+breast cancer	breast			
+breast carcinoma	breast			
+Burkitt lymphoma	Sub+AC0-type that not covered	nhl		
+carcinoma	bladder+ADs-colon+ADs-rectal+ADs-breast+ADs-cns+ADs-cervical+ADs-gastric+ADs-hnscc+ADs-ovarian+ADs-pancreas+ADs-uterine			
+CCRCC	Not yet			
+central nervous system hemangioblastomas	cns			
+central nervous system tumours	cns			
+cervical carcinoma	cervical			
+chemorefractory CLL	nhl			
+cholangiocarcinoma	Not yet			
+chondroblastoma	bone			
+chondrosarcoma	bone			
+clear cell ovarian carcinoma	ovarian			
+clear cell renal carcinoma	Not yet			
+clear cell renal cell carcinoma	Not yet			
+clear cell sarcoma	Not yet			
+clear cell sarcoma of soft parts	Not yet			
+CLL	nhl			
+CML	Not yet			
+CMML	Not yet			
+CNL	Not yet			
+CNS tumours	cns			
+colon	colon			
+colon adenocarcinoma	colon			
+colon cancer	colon			
+colon carcinoma	colon			
+colorectal	colon+ADs-rectal			
+colorectal adenocarcinoma	colon+ADs-rectal			
+colorectal cancer	colon+ADs-rectal			
+colorectal carcinoma	colon+ADs-rectal			
+congenital fibrosarcoma	Not yet			
+corticotroph adenoma	Not yet			
+cortisol secreting adrenal adenoma	Not yet			
+CRC	colon+ADs-rectal			
+cylindroma	Not yet			
+de novo AML	aml			
+desmoid	NA			
+desmoplastic melanoma	melanoma			
+desmoplastic small round cell tumour	Not yet			
+desmoplastic small round cell tumour 	Not yet			
+DFSP	Not yet			
+diffuse gastric	gastric			
+DIPG	cns			
+DLBCL	nhl			
+Down syndrome associated ALL	all			
+Downs associated ALL	all			
+embryonal rhabdomyosarcoma	Not yet			
+enchondroma	bone			
+endometrial	uterine			
+endometrial carcinoma	uterine			
+endometrial stromal sarcoma	uterine			
+endometrial stromal tumour	uterine			
+endometrioid adenocarcinoma	uterine			
+endometrioid carcinoma	uterine			
+endometrium	uterine			
+epithelial ovarian	ovarian			
+epithelioid haemangioendothelioma	Not yet			
+erythrocytosis	Not yet			
+ETP ALL	all			
+Ewing sarcoma	bone			
+'Ewing''''s sarcoma'	bone			
+extraskeletal myxoid chondrosarcoma	bone			
+eyelid sebaceous carcinoma	Not yet			
+fibroadenoma	breast			
+fibrolamellar hepatocellular carcinoma	Not yet			
+fibromyxoid sarcoma	Not yet			
+fibrous dysplasia	bone			
+follicular lymphoma	Sub+AC0-type that not covered	nhl		
+follicular thyroid	Not yet			
+follicular thyroid adenoma	Not yet			
+gallbladder carcinoma	Not yet			
+gastric	gastric			
+gastric adenocarcinoma	gastric			
+gastric cancer	gastric			
+gastric carcinoma	gastric			
+GBM	cns			
+GIST	Not yet			
+glioblastoma	cns			
+glioma	cns			
+granulosa+AC0-cell tumour of the ovary	ovarian			
+haemangioma	???			
+head and neck	HNSCC			
+head and neck cancer	HNSCC			
+head and neck SCC	HNSCC	???		
+head+AC0-neck squamous cell	HNSCC			
+hemangioblastoma	cns			
+hepatic adenoma	Not yet			
+hepatoblastoma	Not yet			
+hepatocellular	Not yet			
+hepatocellular carcinoma	Not yet			
+HES	NA	germline		
+HNSCC	HNSCC	???		
+Hodgkin lymphoma	Not yet			
+Hodgkin lymphoma	Not yet			
+idiopathic hypereosinophilic syndrome	NA	germline		
+inflammatory myofibroblastic tumour	Sub+AC0-type that not covered	soft tissue		
+infrequent sarcomas	bone+ADs-breast+ADs-cns+ADs-aml+ADs-ovarian+ADs-uterine			
+intestinal T+AC0-cell lymphoma	nhl			
+JMML	Not yet			
+kidney cancer	Not yet			
+Langerhans cell histiocytosis	Not yet			
+large granular lymphocytic leukaemia	Sub+AC0-type that not covered	nhl		
+large intestine	colon			
+large intestine carcinoma	colon			
+leiomyoma	Not yet			
+lethal midline carcinoma	NSCLC			
+lethal midline carcinoma of young people	NSCLC			
+leukaemia	all+ADs-aml			
+leukaemia lymphoma and MDS associated with severe congenital neutropenia	???			
+lipoblastoma	Not yet			
+lipoma	Not yet			
+liposarcoma	Not yet			
+liver	Not yet			
+lobular breast	breast			
+low grade serous ovarian cancer	ovarian			
+luminal A breast	breast			
+lung	NSCLC+ADs-SCLC			
+lung adenocarcinoma	NSCLC			
+lung cancer	NSCLC+ADs-SCLC			
+lung carcinoma	NSCLC+ADs-SCLC			
+lung SCC	SCLC			
+Lung SCC	SCLC			
+lymphoblastic leukaemia/biphasic	NA			
+lymphoma	cns+ADs-nhl			
+lymphomas	cns+ADs-nhl			
+malignant melanoma of soft parts	melanoma			
+malignant mesothelioma	Not yet			
+malignant peripheral nerve sheath tumours	cns			
+malignant rhabdoid	Not yet			
+MALT	Sub+AC0-type that not covered	nhl		
+mantle cell lymphoma	nhl			
+marginal zone B+AC0-cell lymphomas	nhl			
+marginal zone lymphoma	nhl			
+mastocytosis	Not yet			
+MCL	nhl			
+MDS	mds			
+MDS and related	mds			
+MDS/MPN+AC0-U	mds			
+medullary thyroid	Not yet			
+medulloblastoma	cns			
+megakaryoblastic leukaemia of Downs syndrome	Sub+AC0-type that not covered	aml		
+melanocytic nevus	Sub+AC0-type that not covered	cns		
+melanoma	melanoma			
+meningeal haemangiopericytoma	cns			
+meningioma	cns			
+mesenchymal chondrosarcoma	bone			
+mesothelioma	Not yet			
+microfollicular thyroid adenoma	Not yet			
+MLCLS	Sub+AC0-type that not covered	nhl		
+MM	NA			
+monoclonal B lymphocytosis	nhl			
+MPN	Not yet			
+mucosal melanoma	melanoma			
+multiple different leukaemia and lymphoma tumour types including ALL	all	???		
+multiple myeloma	Not yet			
+multiple other tumour types	NA			
+myelodysplastic syndrome	mds			
+'myeloid neoplasms'''	Not yet			
+myeloma	Not yet			
+myoepithelioma	HNSCC			
+myxofibrosarcoma	Not yet			
+myxoid chondrosarcoma	bone			
+nasal NK/T lymphoma	Sub+AC0-type that not covered	nhl		
+neuroblastoma	cns			
+neurofibroma	cns			
+NHL	nhl			
+Nodular lymphocyte predominant Hodgkin lymphoma	Not yet			
+NSCLC	NSCLC			
+oesophageal SCC	esophageal			
+oesophageal squamous carcinoma	esophageal			
+oesophageal squamous cell carcinoma	esophageal			
+oesophagus	esophageal			
+oesophagus cancer	esophageal			
+oligodendroglioma	cns			
+oral SCC	HNSCC			
+oral squamous cell	HNSCC			
+oral squamous cell carcinoma	HNSCC			
+other CNS	cns			
+other tumour types	NA			
+others	NA			
+ovarian	ovarian			
+ovarian cancer	ovarian			
+ovarian carcinoma	ovarian			
+ovarian mixed germ cell tumour	ovarian			
+ovary	ovarian			
+paediatric Burkitt lymphoma	Not yet			
+paediatric GBM	cns	not that specific about age		
+paediatric glioblastoma	cns	not that specific about age		
+pancreas	pancreas			
+pancreas acinar carcinoma	pancreas			
+pancreatic	pancreas			
+pancreatic acinar cell carcinoma	pancreas			
+pancreatic cancer	pancreas			
+pancreatic carcinoma	pancreas			
+pancreatic ductal adenocarcinoma	pancreas			
+pancreatic intraductal papillary mucinous neoplasm	pancreas			
+pancreatic neuroendocrine tumour	Not yet			
+pancreatic neuroendocrine tumours	Not yet			
+papillary renal	Not yet			
+papillary thyroid	Not yet			
+paraganglioma	Not yet			
+parathyroid adenoma	Not yet			
+parathyroid tumours	Not yet			
+peripheral T+AC0-cell lymphoma	Not yet			
+peritoneal carcinomatosis	Not yet			
+pheochromocytoma	Not yet			
+phyllodes tumour	breast			
+phyllodes tumour of the breast	breast			
+pilocytic astrocytoma	cns			
+pituitary adenoma	Sub+AC0-type that not covered	Neuroendocrine and Adrenal Tumors		
+pituitary blastoma	Sub+AC0-type that not covered	Endocrine+AC0-germline		
+pleomorphic salivary gland adenoma	HNSCC			
+pleuropulmonary blastoma	NSCLC	as rhabdomyosarcoma		
+PMBL	nhl	+- not yet 		
+pre B+AC0-ALL	all			
+pre+AC0-B ALL	duplicated			
+primary central nervous system lymphoma	cns			
+primary central nervous system melanocytic neoplasms	cns	spectrum		
+prostae adenocarcinoma	Not yet			
+prostate	Not yet			
+prostate cancer	Not yet			
+prostate carcinoma	Not yet			
+pulmonary lymphangioleiomyomatosis (LAM)	Not yet			
+rare other tumour types	NA			
+RCC	Not yet			
+relapse ALL	all			
+renal	Not yet			
+renal angiomyolipoma	Not yet			
+renal cell carcinoma	Not yet			
+renal cell carcinoma (childhood epithelioid)	Not yet			
+retinoblastoma	Not yet	eye		
+rhabdomyosarcoma	Not yet	soft tissue		
+salivary adenoma	HNSCC			
+salivary gland mucoepidermoid	HNSCC			
+sAML	aml			
+sarcoma	bone+ADs-breast+ADs-cns+ADs-aml+ADs-ovarian+ADs-uterine			
+SCC	Not yet			
+SCCOHT	Sub+AC0-type that not covered	ovary		
+SCLC	SCLC			
+secretory breast	breast			
+serous ovarian	ovarian			
+sex cord+AC0-stromal tumour	NA			
+skin	Not yet	generic		
+skin basal cell	Not yet			
+skin basal cell carcinoma	Not yet			
+skin cancer	Not yet			
+skin SCC	Not yet			
+skin squamous cell	Not yet			
+skin squamous cell carcinoma+AC0-burn scar related	Not yet			
+SM+AC0-AHD	NA			
+small cell lung carcinoma	SCLC			
+small intestine	Not yet			
+small intestine neuroendocrine tumours	Not yet			
+SMZL	Sub+AC0-type that not covered	nhl		
+soft tissue sarcoma	Not yet			
+solitary fibrous tumour	Not yet			
+Spitzoid tumour	melanoma			
+splenic marginal zone lymphoma	Sub+AC0-type that not covered	nhl		
+sporadic medulloblastoma	cns			
+squamous cell carcinoma	Not yet			
+stomach carcinoma	gastric			
+synovial sarcoma	Not yet			
+T cell lymphomas	Not yet			
+T cell prolymphocytic leukaemia	Not yet			
+T+AC0-ALL	all			
+T+AC0-cell large granular lymphocytic leukaemia	Not yet			
+T+AC0-cell leukaemia	Not yet			
+T+AC0-cell lymphoma	Not yet			
+T+AC0-CLL	Not yet			
+T+AC0-PLL	Not yet			
+testicular germ cell tumours and other tumour types	Not yet			
+TGCT	Not yet			
+thyroid	Not yet			
+thyroid cancer	Not yet			
+thyroid cancer (PDTC and ATC)	Not yet			
+toxic thyroid adenoma	Not yet			
+urothelial cancer	bladder			
+urothelial cell carcinoma	bladder			
+uterine carcinosarcoma	uterine			
+uterine leiomyoma	uterine			
+uterine serous carcinoma	uterine			
+uveal melanoma	melanoma			
+various benign mesenchymal tumours	Not yet			
+Wilms tumour	Not yet			
+WM	???	too short name?		
