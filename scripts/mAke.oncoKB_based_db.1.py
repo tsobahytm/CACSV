@@ -27,27 +27,5 @@ for gene in genes_oncokb:
 		fOut.write('{}\t{}\n'.format(gene,'\t'.join(l)))
 	#exit(0)
 
-#let's investigate tissue types & variants...
-#types=[];variants=[]
-#for line in lines:
-#	tokens = line.split('\t')
-#	if tokens[0] == 'Isoform':
-#		continue
-#	else:
-#		variants.append(tokens[4])
-#		types.append(tokens[6])
-#variants = list(set(variants))
-#types = list(set(types))
-#l=[]
-#for line in lines:
-#	tokens = line.split('\t')
-	#if 'Exon' in tokens[4]:
-	#	l.append(tokens[3])	
-	#elif tokens[4] == 'Oncogenic Mutations':
-	#	l.append(tokens[3])
-#	elif tokens[4] =='Truncating Mutations':
-#		l.append(tokens[3])
-#print(len(l))
-#l = list(set(l));print(len(l))
-#print (l)
+
 	
