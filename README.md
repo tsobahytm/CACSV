@@ -35,6 +35,6 @@ python Classifier.3.5.py somatic_variants_text_file
 ```
 
 ## LICENSE
-[MIT](https://choosealicense.com/licenses/mit/)
+[FreeBSD](https://opensource.org/licenses/BSD-2-Clause)
 ##
 for tips on readme (https://www.makeareadme.com/). Online readme editor (https://stackedit.io/editor).  
