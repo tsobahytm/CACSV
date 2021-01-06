@@ -1,0 +1,111 @@
+gene	ens	cDNA	aa	tier	level	e_source	bio_type	submitted_type	NCCN_drug	NCCN_response	NCCN_condition	NCCN_panel	FDA_for_same	FDA_for_other	investigational_for_same	ct_title	status	location	preclinical_for_same	preclinical_generic
+RSPRY1	ENST00000394420	c.466G>A	p.G156R	III				breast												
+BTLA	ENST00000334529	c.222C>G	p.L74=	III				breast												
+CDH10	ENST00000264463	c.1249C>A	p.P417T	III				breast												
+SCRN2	ENST00000290216	c.259G>T	p.G87C	III				breast												
+POU3F4	ENST00000373200	c.363C>A	p.N121K	III				breast												
+FCN3	ENST00000270879	c.628G>A	p.A210T	III				breast												
+PIWIL3	ENST00000332271	c.102+27C>T	*34*	III				breast												
+BAZ2B	ENST00000392783	c.3250G>A	p.V1084I	III				breast												
+SAMD13	ENST00000370671	c.*18C>A	*6*	III				breast												
+TUSC2	ENST00000232496	c.*148C>T	*50*	III				breast												
+ABCA8	ENST00000269080	c.3310-64C>G	*1104*	III				breast												
+FDXR	ENST00000293195	c.80-107G>A	*27*	III				breast												
+ADAD2	ENST00000315906	c.1605G>A	p.G535=	III				breast												
+GRIN3A	ENST00000361820	c.2851G>T	p.G951C	III				breast												
+DBR1	ENST00000260803	c.1294G>T	p.D432Y	III				breast												
+CACNG7	ENST00000222212	c.630C>G	p.Y210*	III				breast												
+NDUFA13	ENST00000507754	c.-209G>C	*70*	III				breast												
+CTTNBP2NL	ENST00000271277	c.*513C>A	*171*	III				breast												
+TRPV4	ENST00000261740	c.1274A>G	p.D425G	III				breast												
+UNC13C	ENST00000260323	c.3475G>A	p.G1159S	III				breast												
+DAG1	ENST00000308775	c.1695C>A	p.P565=	III				breast												
+CACNA1E	ENST00000367573	c.3803C>T	p.T1268I	III				breast												
+ANKRD12	ENST00000262126	c.1242A>G	p.K414=	III				breast												
+SEMA3C	ENST00000265361	c.1567G>A	p.D523N	III				breast												
+USP54	ENST00000339859	c.14G>T	p.R5I	III				breast												
+IBTK	ENST00000306270	c.2859A>C	p.V953=	III				breast												
+OSBPL11	ENST00000296220	c.300G>A	p.Q100=	III				breast												
+CC2D2A	ENST00000424120	c.1353T>A	p.T451=	III				breast												
+OR11H12	ENST00000550708	c.519C>A	p.I173=	III				breast												
+TRAV39	ENST00000390466	c.213A>T	p.G71=	III				breast												
+VWF	ENST00000261405	c.1476C>G	p.L492=	III				breast												
+COL18A1	ENST00000359759	c.3141+2T>C	p.X1047_splice	III				breast												
+PAN2	ENST00000425394	c.834C>G	p.I278M	III				breast												
+USP32	ENST00000300896	c.811+141T>A	*271*	III				breast												
+SCN9A	ENST00000303354	c.39C>T	p.V13=	III				breast												
+TENM2	ENST00000518659	c.4658C>A	p.P1553Q	III				breast												
+GNPTG	ENST00000204679	c.812C>T	p.T271M	III				breast												
+TENM1	ENST00000371130	c.*1717C>A	*573*	III				breast												
+PCDH12	ENST00000231484	c.*238G>A	*80*	III				breast												
+KY	ENST00000423778	c.*156G>A	*52*	III				breast												
+MT1M	ENST00000379818	c.*122A>C	*41*	III				breast												
+ADAMTSL5	ENST00000330475	c.1241A>G	p.H414R	III				breast												
+RNASEH2A	ENST00000221486	c.*49T>G	*17*	III				breast												
+STAP1	ENST00000265404	c.373C>T	p.P125S	III				breast												
+SLC36A3	ENST00000335230	c.702C>T	p.I234=	III				breast												
+PRAME	ENST00000398741	c.105G>A	p.L35=	III				breast												
+ACVR1B	ENST00000257963	c.332-2A>T	p.X111_splice	III				breast												
+TDRD5	ENST00000294848	c.2199G>A	p.V733=	III				breast												
+SIGIRR	ENST00000332725	c.193C>A	p.H65N	III				breast												
+CSF2RB	ENST00000403662	c.160C>T	p.Q54*	III				breast												
+DUSP11	ENST00000272444	c.*21C>G	*7*	III				breast												
+MYH2	ENST00000245503	c.940C>A	p.P314T	III				breast												
+CYP20A1	ENST00000356079	c.66C>T	p.L22=	III				breast												
+ASH1L	ENST00000368346	c.1240G>A	p.A414T	III				breast												
+SYT1	ENST00000261205	c.928+2T>C	p.X310_splice	III				breast												
+RGS22	ENST00000360863	c.248A>G	p.D83G	III				breast												
+NCAPD2	ENST00000315579	c.2437C>T	p.Q813*	III				breast												
+SLC17A4	ENST00000377905	c.1010C>G	p.P337R	III				breast												
+PLXNA3	ENST00000369682	c.*148C>T	*50*	III				breast												
+ATRN	ENST00000262919	c.3434G>A	p.R1145Q	III				breast												
+ULK4	ENST00000441771	n.8T>A	*3*	III				breast												
+HOXD11	ENST00000249504	c.799C>T	p.R267W	III				breast												
+BTN2A2	ENST00000356709	c.833T>C	p.F278S	III				breast												
+TSPYL2	ENST00000375442	c.1804_1805del	p.D602Hfs*2	III				breast												
+GALNT11	ENST00000430044	c.298A>G	p.M100V	III				breast												
+MUC17	ENST00000306151	c.13187G>T	p.G4396V	III				breast												
+C22orf29	ENST00000328554	c.629C>T	p.P210L	III				breast												
+THSD4	ENST00000355327	c.1300C>T	p.P434S	III				breast												
+MYOZ3	ENST00000297130	c.300G>A	p.P100=	III				breast												
+KCNH2	ENST00000262186	c.1769G>A	p.G590D	III				breast												
+ITGA7	ENST00000555728	c.92C>A	p.A31D	III				breast												
+SCN3A	ENST00000360093	c.4767G>C	p.W1589C	III				breast												
+SCN3A	ENST00000360093	c.4767G>A	p.W1589*	III				breast												
+SAGE1	ENST00000324447	c.2590G>T	p.E864*	III				breast												
+SAGE1	ENST00000324447	c.2590G>A	p.E864K	III				breast												
+IQCJ-SCHIP1	ENST00000337808	c.129C>T	p.A43=	III				breast												
+WDR96	ENST00000357060	c.2420G>A	p.R807K	III				breast												
+SRI	ENST00000265729	c.8A>G	p.Y3C	III				breast												
+SLC4A8	ENST00000453097	c.214C>T	p.R72W	III				breast												
+SLC4A8	ENST00000453097	c.214C>G	p.R72G	III				breast												
+C1orf168	ENST00000343433	c.1071T>C	p.Y357=	III				breast												
+ITPKB	ENST00000272117	c.1415C>G	p.S472C	III				breast												
+BTNL3	ENST00000342868	c.-9G>T	*3*	III				breast												
+ERCC5	ENST00000355739	c.3263dup	p.L1088Ffs*11	III				breast												
+PRPF31	ENST00000321030	c.184G>A	p.E62K	III				breast												
+RSRC2	ENST00000331738	c.-88G>T	*30*	III				breast												
+LINC00518	ENST00000496285	n.779A>T	*260*	III				breast												
+SDCCAG8	ENST00000366541	c.1885dup	p.R629Kfs*5	III				breast												
+EYA3	ENST00000373871	c.270_271delinsTT	p.P91S	III				breast												
+LARS2	ENST00000265537	c.1479C>A	p.P493=	III				breast												
+ELP2	ENST00000358232	c.2324G>T	p.S775I	III				breast												
+CREB3	ENST00000353704	c.46C>A	p.L16M	III				breast												
+ZNF425	ENST00000378061	c.1315A>G	p.K439E	III				breast												
+SLC25A31	ENST00000281154	c.522G>A	p.M174I	III				breast												
+OR2J2	ENST00000377167	c.-93T>A	*31*	III				breast												
+LRRC66	ENST00000343457	c.1700G>T	p.G567V	III				breast												
+KLK7	ENST00000391807	c.305C>A	p.P102H	III				breast												
+BZW1	ENST00000409600	c.1069A>G	p.K357E	III				breast												
+KLC2	ENST00000316924	c.71T>G	p.V24G	III				breast												
+KLRC3	ENST00000396439	c.487-1G>A	p.X163_splice	III				breast												
+ERBB2	ENST00000269571	c.2329G>T	p.V777L	III				breast												
+PTEN	ENST00000371953	c.195C>G	p.Y65*	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.494G>A	p.G165E	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.697C>T	p.R233*	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.796A>T	p.K266*	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.892C>T	p.Q298*	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.127G>T	p.E43*	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.275A>G	p.D92G	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.212G>A	p.C71Y	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
+PTEN	ENST00000371953	c.314G>A	p.C105Y	II	D	OncoKB	therapeutic	breast												AZD8186, GSK2636771:All Solid Tumors
