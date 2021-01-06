@@ -1,35 +1,42 @@
 # CACSV
 Clinically Actionable Cancer Somatic Variants (CACSV) is genetics dataset that is built of publicly available cancer mutations simulated from different tumor sites and catalogued based on the AMP-ASCO-CAP 2017 recommendations. 
-## Download (all files in finalDB)
+## PREREQUISITE
 --cancer databases--
 ```
-(1) COSMIC
+1. You need to install Python >= 2.7
+2. You need to download the latest version of the following databases:
+(a) COSMIC
 CosmicMutantExportCensus.tsv  (https://cancer.sanger.ac.uk/cosmic/download )
 cancer_gene_census.csv  (https://cancer.sanger.ac.uk/cosmic/download )
-(2) cBioPortal
+(b) cBioPortal
 data_mutations_extended.txt files per study  (https://www.cbioportal.org/datasets)
-(3) intOgen
-mutation_analysis.csv files per site  (https://www.intogen.org/download )
-(4) OncoKB
+(c) OncoKB
 allActionableVariants.txt  (https://www.oncokb.org/apiAccess )
-(5) CCGD
+(d) CCGD
 CCGD_export.csv (http://ccgd-starrlab.oit.umn.edu/search.html )
 ```
---prepared files---
---python scripts--
-## DB conversion (all original file prapareness)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
+## USAGE
+--prepare the files--
 ```
+python PrepCCGD.py CCGD_export.csv
+python CreatMasterFile.py cancer_gene_census.csv,CCGD_export.db.csv TypesMatching.csv,TypesMatching.CCGD.csv
+python Collection.2.py TypesMatching_cBioPortal.csv cBioPortal_all/datahub/public/[full path]
+python PrePcBio.2.py cBioPortal.db.1.csv,Tumor_Type.3.csv
+python SV-Collection.COSMIC.V4.2.py CosmicMutantExportCensus.mmddyyy.tsv Tumor_Type.3.csv
+python mAke.oncoKB_based_db.1.py allActionableVariants.txt
+--move the generated files to final_db directory--
 
-## Usage
-```UNIX Command Line
-python3 Classifier.3.3.py input_text_file
-
-
+```
+--run the classifier--
+```
+python Classifier.3.5.py input_text_file 
+ 
+```
+--convert to json--
+```
+python Classifier.3.5.py input_text_file 
+ 
 ```
 
 ## Contributing
