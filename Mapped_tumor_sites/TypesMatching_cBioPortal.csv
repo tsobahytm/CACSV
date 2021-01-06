@@ -1,0 +1,129 @@
+directory	abbreviation	Full name	Publication	nccn equivalent	Action	
+all+AF8-stjude+AF8-2013	ALL 	Hypodiploid Acute Lymphoid Leukemia	Holmfeldt et al. Nat Genet 2013	all	Process	+ACo- :CNV,fusion
+all+AF8-stjude+AF8-2015	ALL 	Infant MLL+AC0-Rearranged Acute Lymphoblastic Leukemia	Andersson et al. Nat Genet 2015	all	Process	:right/left+AD0-colon,rectum+AD0-rectal
+all+AF8-stjude+AF8-2016	ALL 	ERG+AC0-altered B+AC0-ALL tumor/normal pairs	Zhang et al. Nat Genet 2016	all	Process	+AC0-:READ,COAD
+laml+AF8-tcga+AF8-pub	LAML 	Acute Myeloid Leukemia	TCGA, NEJM 2013	aml	Process	+ACU-:left,right,transverse+AD0-colon,rectum+AD0-rectal
+laml+AF8-tcga	LAML 	Acute Myeloid Leukemia	NA	aml	Process	+ACY-:colon,rectum,NA+AD0-exclude
+laml+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	LAML 	Acute Myeloid Leukemia TCGA PanCancer data	29625048,29596782,29622463,29617662,29625055,29625050	aml	Process	
+coadread+AF8-mskcc	COADREAD 	Colorectal Adenocarcinoma Triplets	Brannon et al. Genome Biol 2014	colon/rectal+AC0-will depend on the site colon (more frequent) or rectal	Process	
+coadread+AF8-tcga	COADREAD 	Colorectal Adenocarcinoma	NA	colon/rectal	Process	
+coadread+AF8-genentech	COADREAD 	Colorectal Adenocarcinoma	Seshagiri et al. Nature 2012	colon	Process	
+coadread+AF8-tcga+AF8-pub	COADREAD 	Colorectal Adenocarcinoma	TCGA, Nature 2012	colon/rectal	Process	
+coadread+AF8-dfci+AF8-2016	COADREAD 	Colorectal Adenocarcinoma	Giannakis et al. Cell Reports 2016	colon/rectal	Ignored due to absence of primary site information	
+coadread+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	COADREAD 	Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)	29625048,29596782,29622463,29617662,29625055,29625050		Process	
+gbc+AF8-shanghai+AF8-2014	GBC 	Gallbladder Carcinoma	Maolan Li et al, Nat Genet 2014	bladder	Process	
+blca+AF8-plasmacytoid+AF8-mskcc+AF8-2016	BLCA 	Bladder Cancer, Plasmacytoid Variant	NA	bladder	Process	
+blca+AF8-dfarber+AF8-mskcc+AF8-2014	BLCA 	Bladder Urothelial Carcinoma	Van Allen et al.,Cancer Discov 2014	bladder	Process	
+blca+AF8-tcga+AF8-pub	BLCA 	Bladder Urothelial Carcinoma	TCGA, Nature 2014	bladder	Process	
+blca+AF8-bgi	BLCA 	Bladder Urothelial Carcinoma	Guo et al. Nat Genet 2012	bladder	Process	
+blca+AF8-tcga	BLCA 	Bladder Urothelial Carcinoma	NA	bladder	Process	
+blca+AF8-mskcc+AF8-solit+AF8-2012	BLCA 	Bladder Cancer	Iyer et al. JCO 2013	bladder	Process	
+blca+AF8-mskcc+AF8-solit+AF8-2014	BLCA 	Bladder Cancer	Kim et al. Eur Urol 2015	bladder	Process	
+blca+AF8-cornell+AF8-2016	BLCA 	Bladder Cancer		bladder	Process	
+blca+AF8-nmibc+AF8-2017	BLCA 	Bladder Cancer		bladder	Process	
+blca+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	BLCA 	Bladder Cancer		bladder	Process	
+blca+AF8-tcga+AF8-pub+AF8-2017	BLCA 	Bladder Cancer		bladder	Process	
+ucs+AF8-tcga	UCS 	Uterine Carcinosarcoma	NA	uterine	Process	
+ucs+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	UCS 	Uterine Carcinosarcoma	NA	uterine	Process	
+ucec+AF8-tcga+AF8-pub	UCEC 	Uterine Corpus Endometrial Carcinoma	TCGA, Nature 2013	uterine	Process	
+ucec+AF8-tcga	UCEC 	Uterine Corpus Endometrial Carcinoma	NA	uterine	Process	
+ucec+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	UCEC 	Uterine Corpus Endometrial Carcinoma	NA	uterine	Process	
+ucec+AF8-msk+AF8-2018	UCEC 	Uterine Corpus Endometrial Carcinoma	NA	uterine	Process	
+ucs+AF8-jhu+AF8-2014	UCS 	Uterine Carcinosarcoma	Jones et al. Nat Commun 2014	uterine	Process	
+uccc+AF8-nih+AF8-2017	UCCC	Uterine Clear Cell Carcinoma		uterine	Process	
+es+AF8-dfarber+AF8-broad+AF8-2014	ES 	Pediatric Ewing Sarcoma	Brian D. Crompton et al. Cancer Discov. 2014	bone	Process	
+es+AF8-iocurie+AF8-2014	ES 	Ewing Sarcoma	Tirode et al. Cancer Discov. 2014	bone	Process	
+brca+AF8-tcga+AF8-pub	BRCA 	Breast Invasive Carcinoma	TCGA, Nature 2012	breast	Process	
+brca+AF8-broad	BRCA 	Breast Invasive Carcinoma	Banerji et al. Nature 2012	breast	Process	
+brca+AF8-bccrc+AF8-xenograft+AF8-2014	BRCA 	Breast cancer patient xenografts	Eirew et al. Nature 2014	breast	Process	we accepted xenogarfts as well
+brca+AF8-tcga+AF8-pub2015	BRCA 	Breast Invasive Carcinoma	TCGA, Cell 2015	breast	Process	
+brca+AF8-metabric	BRCA 	Breast Cancer	Pereira et al. Nat Commun 2016	breast	Process	
+acbc+AF8-mskcc+AF8-2015	ACBC 	Adenoid Cystic Carcinoma of the Breast	Martelotto et al. J Pathol. 2015	breast	Process	
+brca+AF8-sanger	BRCA 	Breast Invasive Carcinoma	Stephens et al. Nature 2012	breast	Process	
+brca+AF8-bccrc	BRCA 	Breast Invasive Carcinoma	Shah et al. Nature 2012	breast	Process	
+brca+AF8-igr+AF8-2015	BRCA 	Mutational profiles of metastatic breast cancer	NA	breast	Process	
+brca+AF8-tcga	BRCA 	Breast Invasive Carcinoma	NA	breast	Process	
+bfn+AF8-duke+AF8-nus+AF8-2015	bfn/breast sarcoma			breast	Process	
+breast+AF8-msk+AF8-2018	brca			breast	Process	
+brca+AF8-mbcproject+AF8-wagle+AF8-2017	BRCA 			breast	Process	
+brca+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	BRCA 			breast	Process	
+lgg+AF8-tcga	LGG 	Brain Lower Grade Glioma	NA	cns	Process	
+odg+AF8-msk+AF8-2017	odg	brain/csn		cns	Process	
+mbl+AF8-icgc	MBL 	Medulloblastoma	Jones et al. Nature 2012	cns	Process	
+mbl+AF8-broad+AF8-2012	MBL 	Medulloblastoma	Pugh et al. Nature 2012	cns	Process	
+mbl+AF8-pcgp	MBL 	Medulloblastoma	Robinson et al. Nature 2012	cns	Process	
+mbl+AF8-sickkids+AF8-2016	MBL 	Medulloblastoma		cns	Ignored due to absence of primary site information	
+lgg+AF8-ucsf+AF8-2014	LGG 	Low+AC0-Grade Gliomas	Johnson BE et al, Science 2014	cns	Process	
+lgg+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018				cns	Process	
+lgggbm+AF8-tcga+AF8-pub				cns	Process	
+gbm+AF8-tcga+AF8-pub	GBM 	Glioblastoma	TCGA, Nature 2008	cns	Process	
+gbm+AF8-tcga+AF8-pub2013	GBM 	Glioblastoma	TCGA, Cell 2013	cns	Process	
+gbm+AF8-tcga				cns	Process	
+gbm+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018				cns	Process	
+esca+AF8-broad	ESCA 	Esophageal Adenocarcinoma	Dulak et al. Nat Genet 2013	esophageal	Process	
+esca+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	ESCA 			esophageal	Process	
+escc+AF8-ucla+AF8-2014	ESCC 	Esophageal Squamous Cell Carcinoma	Lin et al., Nat Genet 2014	esophageal	Process	
+stes+AF8-tcga+AF8-pub	STES 	TCGA data for Esophagus+AC0-Stomach Cancers	TCGA, Nature 2017	esophageal/gastric	Process	
+esca+AF8-tcga	ESCA 	Esophageal Carcinoma	NA	esophageal	Process	
+escc+AF8-icgc	ESCC 	Esophageal Squamous Cell Carcinoma	Song et al. Nature 2014	esophageal	Process	
+stad+AF8-pfizer+AF8-uhongkong	STAD 	Stomach Adenocarcinoma	Wang et al. Nat Genet 2014	gastric	Process	
+stad+AF8-uhongkong	STAD 	Stomach Adenocarcinoma	Wang et al. Nat Genet 2011	gastric	Process	
+stad+AF8-utokyo	STAD 	Stomach Adenocarcinoma	Kakiuchi et al. Nat Genet 2014	gastric	Process	
+stad+AF8-tcga+AF8-pub	STAD 	Stomach Adenocarcinoma	TCGA, Nature 2014	gastric	Process	
+stad+AF8-tcga	STAD 	Stomach Adenocarcinoma	NA	gastric	Process	
+stad+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	STAD 			gastric	Process	
+skcm+AF8-broad+AF8-dfarber	SKCM 	Melanoma	Berger et al. Nature 2012	melanoma	Process	
+desm+AF8-broad+AF8-2015	DESM 	Desmoplastic Melanoma	Shain et al. Nat Genet 2015	melanoma	Ignored due to absence of primary site information	
+skcm+AF8-tcga	SKCM 	Skin Cutaneous Melanoma	NA	melanoma	Process	
+uvm+AF8-tcga	UVM 	Uveal Melanoma	NA	melanoma	Ignored due to absence of primary site information	
+skcm+AF8-broad	SKCM 	Skin Cutaneous Melanoma	Hodis et al. Cell 2012	melanoma	Process	
+skcm+AF8-yale	SKCM 	Skin Cutaneous Melanoma	Krauthammer et al. Nat Genet 2012	melanoma	Process	
+skcm+AF8-broad+AF8-brafresist+AF8-2012	MEL			melanoma	Process	
+skcm+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	SKCM 			melanoma	Process	
+skcm+AF8-ucla+AF8-2016	SKCM 			melanoma	Process	
+skcm+AF8-vanderbilt+AF8-mskcc+AF8-2015	SKCM 			melanoma	Process	
+mel+AF8-tsam+AF8-liang+AF8-2017	ACRM			melanoma	Process	
+ov+AF8-tcga	SOC	Ovarian Serous Cystadenocarcinoma	NA	ovarian	Process	
+ov+AF8-tcga+AF8-pub	HGSOC	Ovarian Serous Cystadenocarcinoma	TCGA, Nature 2011	ovarian	Process	
+ov+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	SOC			ovarian	Process	
+cesc+AF8-tcga	CESC 	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	NA	cervical	Process	
+cesc+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	CESC 			cervical	Process	
+						
+mds+AF8-tokyo+AF8-2011	MDS 	Myelodysplasia	Yoshida et al. Nature 2011	MDS	Process	
+dlbc+AF8-tcga	DLBC 	Lymphoid Neoplasm Diffuse Large B+AC0-cell Lymphoma	NA	Non+AC0-Hodgkin lymphoma	Process	
+ctcl+AF8-columbia+AF8-2015	SS	Cutaneous T Cell Lymphoma	Da Silva Almeida et al. Nat Genet 2015	Non+AC0-Hodgkin lymphoma	Process	
+mcl+AF8-idibips+AF8-2013	MCL 	Mantle Cell Lymphoma	Bea et al., PNAS 2013	Non+AC0-Hodgkin lymphoma	Process	
+dlbc+AF8-broad+AF8-2012	DLBC 	Diffuse Large B+AC0-Cell Lymphoma	Lohr et al., PNAS 2012	Non+AC0-Hodgkin lymphoma	Process	
+dlbc+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	DLBCLNOS			Non+AC0-Hodgkin lymphoma	Process	
+nhl+AF8-bcgsc+AF8-2011	NHL	Non+AC0-Hodgkin lymphoma		Non+AC0-Hodgkin lymphoma	Process	
+nhl+AF8-bcgsc+AF8-2013	NHL	Non+AC0-Hodgkin lymphoma		Non+AC0-Hodgkin lymphoma	Process	
+hnsc+AF8-jhu	HNSC 	Head and Neck Squamous Cell Carcinoma	Agrawal et al. Science 2011	HNSCC	Process	
+hnc+AF8-mskcc+AF8-2016	HNC 	Recurrent and Metastatic Head +ACY- Neck Cancer	NA	HNSCC	Process	
+hnsc+AF8-tcga+AF8-pub	HNSC 	Head and Neck Squamous Cell Carcinoma	TCGA, Nature 2015	HNSCC	Process	
+hnsc+AF8-broad	HNSC 	Head and Neck Squamous Cell Carcinoma	Stransky et al. Science 2011	HNSCC	Process	
+hnsc+AF8-tcga	HNSC 	Head and Neck Squamous Cell Carcinoma	NA	HNSCC	Process	
+hnsc+AF8-mdanderson+AF8-2013	HNSC 	Oral Squamous Cell Carcinoma	Pickering et al. Cancer Discov 2013	HNSCC	Process	
+hnsc+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	HNSC 			HNSCC	Process	
+paad+AF8-qcmg+AF8-uq+AF8-2016	PAAD 	Pancreatic Adenocarcinoma	Bailey et al. Nature 2016	pancreas	Process	
+paad+AF8-utsw+AF8-2015	PAAD 	Pancreatic Cancer	Witkiewicz et al. Nat Commun 2015	pancreas	Process	
+paac+AF8-jhu+AF8-2014	PAAC 	Acinar Cell Carcinoma of the Pancreas	Jial et al. J Pathol 2014	pancreas	Process	
+paad+AF8-icgc	PAAD 	Pancreatic Adenocarcinoma	Biankin et al. Nature 2012	pancreas	Process	
+paad+AF8-tcga	PAAD 	Pancreatic Adenocarcinoma	NA	pancreas	Process	
+paad+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	PAAD 			pancreas	Process	
+panet+AF8-jhu+AF8-2011	PANET 	Pancreatic Neuroendocrine Tumors	Jiao et al. Science 2011	pancreas	Process	
+panet+AF8-shanghai+AF8-2013	PANET 			pancreas	Process	
+panet+AF8-arcnet+AF8-2017	PANET 			pancreas	Process	
+pact+AF8-jhu+AF8-2011	pact			pancreas	Process	
+lusc+AF8-tcga	LUSC 	Lung Squamous Cell Carcinoma	NA	NSCLC	Process	
+nsclc+AF8-tcga+AF8-broad+AF8-2016	NSCLC 	Pan+AC0-Lung Cancer	NA	NSCLC	Process	
+nsclc+AF8-pd1+AF8-msk+AF8-2018	NSCLC 			NSCLC	Process	
+nsclc+AF8-tracerx+AF8-2017	NSCLC 			NSCLC	Process	
+nsclc+AF8-unito+AF8-2016	NSCLC 			NSCLC	Process	
+lusc+AF8-tcga+AF8-pub	LUSC 	Lung Squamous Cell Carcinoma	TCGA, Nature 2012	NSCLC	Process	
+lusc+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	LUSC 			NSCLC	Process	
+luad+AF8-tcga+AF8-pub	LUAD 	Lung Adenocarcinoma	TCGA, Nature 2014	NSCLC	Process	
+luad+AF8-tsp	LUAD 	Lung Adenocarcinoma	Ding et al. Nature 2008	NSCLC	Process	
+luad+AF8-broad	LUAD 	Lung Adenocarcinoma	Imielinksi et al. Cell 2012	NSCLC	Process	
+luad+AF8-mskcc+AF8-2015	LUAD 	Lung Adenocarcinoma	Rizvi et al., Science 2015	NSCLC	Process	
+luad+AF8-tcga	LUAD 	Lung Adenocarcinoma	NA	NSCLC	Process	
+luad+AF8-tcga+AF8-pan+AF8-can+AF8-atlas+AF8-2018	LUAD 			NSCLC	Process	

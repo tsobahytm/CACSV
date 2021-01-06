@@ -1,0 +1,23 @@
+CCGD	universal		universal type
+Skin Cancer	melanoma		all
+Breast Cancer	breast		aml
+Lung Cancer	nsclc+ADs-sclc		anal
+Mixed	NA		rectal
+Blood Cancer	all+ADs-aml+ADs-nhl		colon
+Liver Cancer	Not yet		bladder
+Nervous System Cancer	cns		uterine
+Pancreatic Cancer	pancreas		bone
+Prostate Cancer	Not yet		breast
+Gastric Cancer	gastric		cns
+Sarcoma	bone+ADs-breast+ADs-cns+ADs-aml+ADs-ovarian+ADs-uterine		esophageal
+Colorectal Cancer	colon+ADs-rectal		gastric
+			kaposi
+			melanoma
+			ovarian
+			cervical
+			mds
+			nhl
+			pancreas
+			nsclc
+			sclc
+			hnscc
