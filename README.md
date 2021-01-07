@@ -30,7 +30,7 @@ python3 mAke.oncoKB_based_db.1.py allActionableVariants.txt
 ```
 --run the classifier--
 ```
-python Classifier.3.5.py somatic_variants_text_file 
+python3 Classifier.3.5.py somatic_variants_text_file 
  
 ```
 ## LICENSE
