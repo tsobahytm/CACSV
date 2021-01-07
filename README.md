@@ -20,11 +20,11 @@ CCGD_export.csv (http://ccgd-starrlab.oit.umn.edu/search.html )
 --prepare the files--
 ```
 python PrepCCGD.py CCGD_export.csv
-python CreatMasterFile.py cancer_gene_census.csv,CCGD_export.db.csv TypesMatching.csv,TypesMatching.CCGD.csv
-python Collection.2.py TypesMatching_cBioPortal.csv cBioPortal_all/datahub/public/[full path]
-python PrePcBio.2.py cBioPortal.db.1.csv,Tumor_Type.3.csv
-python SV-Collection.COSMIC.V4.2.py CosmicMutantExportCensus.mmddyyy.tsv Tumor_Type.3.csv
-python mAke.oncoKB_based_db.1.py allActionableVariants.txt
+python3 CreatMasterFile.py cancer_gene_census.csv,CCGD_export.db.csv TypesMatching.csv,TypesMatching.CCGD.csv
+python3 Collection.2.py TypesMatching_cBioPortal.csv cBioPortal_all/datahub/public/[full path]
+python3 PrePcBio.2.py cBioPortal.db.1.csv,Tumor_Type.3.csv
+python3 SV-Collection.COSMIC.V4.2.py CosmicMutantExportCensus.mmddyyy.tsv Tumor_Type.3.csv
+python3 mAke.oncoKB_based_db.1.py allActionableVariants.txt
 --move the generated files to final_db directory--
 
 ```
