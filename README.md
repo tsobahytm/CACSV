@@ -33,5 +33,5 @@ python mAke.oncoKB_based_db.1.py allActionableVariants.txt
 python Classifier.3.5.py somatic_variants_text_file 
  
 ```
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## LICENSE
+CACSV dataset is free for non-commercial use without warranty. Please contact the authors for commercial use.
