@@ -33,7 +33,7 @@ python3 mAke.oncoKB_based_db.1.py allActionableVariants.txt
 python3 Classifier.3.5.py somatic_variants_text_file 
  
 ```
-## LICENSE FOR DATASET
+## LICENSE ON DATASET
 
 CACSV dataset is free for non-commercial use without warranty. Please contact the authors for commercial use.
 
